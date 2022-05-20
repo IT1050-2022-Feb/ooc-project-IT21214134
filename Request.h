@@ -5,6 +5,7 @@
 #include<cstring>
 #define SIZE 20
 
+
 class Request
 {
 private:
