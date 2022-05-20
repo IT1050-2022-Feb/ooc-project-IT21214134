@@ -3,7 +3,6 @@
 #include "Report.h"
 #include <cstring>
 
-
 using namespace std;
 
 StudentLoan::StudentLoan()
