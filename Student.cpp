@@ -4,6 +4,7 @@
 #include "EnrolledModules.h"
 #include <cstring>
 using namespace std;
+
 Student::Student()
 {
  strcpy(username, "");
