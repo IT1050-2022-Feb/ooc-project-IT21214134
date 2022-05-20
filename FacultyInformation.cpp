@@ -2,6 +2,7 @@
 #include "FacultyInformation.h"
 #include<cstring>
 using namespace std;
+
 FacultyInformation::FacultyInformation()
 {
  FacultyName = "";
