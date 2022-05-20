@@ -4,6 +4,7 @@
 #include <cstring>
 using namespace std;
 
+
 EnrolledModules::EnrolledModules()
 {
   strcpy(moduleCode, "");
