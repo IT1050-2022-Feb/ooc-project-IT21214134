@@ -18,3 +18,4 @@ public:
   void displaymoduleDetails(Student *mStu, LecturerInCharge *lec);
   ~EnrolledModules();
 }
+
