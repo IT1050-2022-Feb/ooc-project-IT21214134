@@ -5,6 +5,7 @@
 #include<cstring>
 using namespace std;
 
+
 LecturerInCharge::LecturerInCharge()
 {
   lecName =  "";
