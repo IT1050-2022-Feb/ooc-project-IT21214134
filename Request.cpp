@@ -5,6 +5,7 @@
 #include <cstring>
 using namespace std;
 
+
 Request::Request()
 {
   report[0] = new Report(00);
