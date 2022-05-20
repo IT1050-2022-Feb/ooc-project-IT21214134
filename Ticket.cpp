@@ -2,6 +2,7 @@
 #include <cstring>
 using namespace std;
 
+
 Ticket::Ticket()
 {
   ticketNo = 0;
