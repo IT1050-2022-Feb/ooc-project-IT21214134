@@ -5,6 +5,7 @@
 #define SIZE 5
 using namespace std;
 
+
 class StudentLoan {
 private:
   char loanNo[6];
