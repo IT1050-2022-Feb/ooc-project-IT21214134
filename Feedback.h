@@ -3,6 +3,7 @@
 #include <cstring>
 using namespace std;
 
+
 class Feedback {
 private:
   char feedbackCode[5];
