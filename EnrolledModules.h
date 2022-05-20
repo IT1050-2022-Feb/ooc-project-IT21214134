@@ -2,6 +2,7 @@
 #include "Student.h"
 #include "LecturerInCharge.h"
 
+
 class EnrolledModules {
 private:
   char moduleCode[6];
