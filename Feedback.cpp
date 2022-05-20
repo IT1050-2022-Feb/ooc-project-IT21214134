@@ -11,6 +11,7 @@ Feedback::Feedback()
   response = "";
 }
 
+
 Feedback::Feedback(char fCode[], string des, Student *Stu)
 {
   strcpy(feedbackCode, fCode);
