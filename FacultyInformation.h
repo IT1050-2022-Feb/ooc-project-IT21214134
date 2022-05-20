@@ -1,6 +1,7 @@
 //Created by IT21213694
 #include<iostream>
 using namespace std;
+
 class FacultyInformation
 {
 private:
